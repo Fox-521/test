@@ -1,0 +1,2 @@
+D:\VS_C\Game\Debug\Game.exe
+D:\VS_C\Game\Debug\Game.pdb
